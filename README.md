@@ -1,1 +1,1 @@
-# satchel-tech-interview
+# tech-interview
